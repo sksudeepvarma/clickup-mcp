@@ -47,7 +47,7 @@ Retrieves all comments and discussion threads from a specific task:
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sksudeepvarma/clickup-mcp.git
    cd clickup-mcp-python
    ```
 
