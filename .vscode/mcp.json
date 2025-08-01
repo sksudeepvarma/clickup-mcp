@@ -3,7 +3,7 @@
 		"clickup-new-local": {
 			"type": "stdio",
 			"command": "python",
-			"args": ["C:\\Users\\sudee\\Documents\\MCP\\clickup-mcp\\main.py"],
+			"args": ["<full-path-to-main.py>"],
 			"env": {
 				"CLICKUP_API_TOKEN": "${env:CLICKUP_API_TOKEN}"
 			}
